@@ -1,0 +1,7 @@
+Array
+(
+    [fullName] => biruk
+    [email] => birukz959@gmail.com
+    [password] => 11223344
+    [confirmPassword] => 11223344
+)
